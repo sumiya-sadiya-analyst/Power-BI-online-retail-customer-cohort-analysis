@@ -14,7 +14,8 @@ This Power BI project explores how wholesale clients shop at the online giftware
 https://github.com/user-attachments/assets/41fb9f63-ed8a-4371-ad1f-b92ef9b36ace
 
 ## Project Overview & Breakdown: 📑📋
-## <img width="3307" height="2482" alt="Slide 1" src="https://github.com/user-attachments/assets/7cb45912-f73a-4516-b127-d477d0b45cd8" />
+
+## <img width="3307" height="2482" alt="Slide 1" src="https://github.com/user-attachments/assets/36ed9bfe-ffe6-49c1-856d-713ef5706ab6" />
 
 ## <img width="3307" height="2482" alt="Slide 2" src="https://github.com/user-attachments/assets/c0696fe6-ff9e-49d9-b39b-1a2e5823e68e" />
 
