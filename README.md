@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/41fb9f63-ed8a-4371-ad1f-b92ef9b36ace
 
 ## Project Overview & Breakdown: 📑📋
 
-## <img width="3307" height="2482" alt="Slide 1" src="https://github.com/user-attachments/assets/36ed9bfe-ffe6-49c1-856d-713ef5706ab6" />
+## <img width="3307" height="2482" alt="Slide 1" src="https://github.com/user-attachments/assets/15f15fb7-ebfb-402c-8d53-8ec9f888bc62" />
 
 ## <img width="3307" height="2482" alt="Slide 2" src="https://github.com/user-attachments/assets/c0696fe6-ff9e-49d9-b39b-1a2e5823e68e" />
 
